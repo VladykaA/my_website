@@ -3,4 +3,4 @@ This is an awesome readme file
 
 now editing on update-readme branch
 
-updated locally
+updated locally, then remotely
